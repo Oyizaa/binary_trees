@@ -66,5 +66,6 @@ typedef struct binary_tree_s heap_t;
 
 ## Authors
 👤 **Musa Oyiza Rahama** | GitHub: [Musa Oyiza Rahama](https://github.com/Oyizaa) | Call 📞: +234 8033 844 473
+
 👤 **Engr. Caleb Onyedikachi Ugwoke** | Email ✉️: [Caleb Ugwoke](mailto:calebugwoke@gmail.com) | Call 📞: +2348136 298 531 
 
